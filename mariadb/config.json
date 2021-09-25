@@ -16,7 +16,7 @@
   },
   "options": {
     "databases": ["homeassistant"],
-    "logins": [{ "username": "homeassistant", "password": null }],
+    "logins": [{ "username": "homeassistant", "password": hass }],
     "rights": [
       {
         "username": "homeassistant",
